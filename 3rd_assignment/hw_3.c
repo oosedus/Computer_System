@@ -11,13 +11,13 @@ int main(void){
     str1 = (char*)malloc(sizeof(str2));
 
     
-    strcpy(str1, "21102050");
+    strcpy(str1, "21102044");
 
     
     printf("str1: %s, address: %p\n", str1, str1);
 
     
-    strcpy(str2, "21102050");
+    strcpy(str2, "21102044");
 
     
     printf("str2: %s, address: %p\n", str2, str2);
